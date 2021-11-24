@@ -1,0 +1,375 @@
+.mainbody{
+    height: 500px;
+    width: 100%;
+}
+.header{
+    display: flex;
+    
+    width: 100%;
+    height: 70px;
+    
+    flex-direction: row;
+}
+.header1{
+    width: 190px;
+}
+.logo-title{
+    padding-top: 8px;
+    margin-top: 10px;
+    margin-left: 11px;
+    
+   
+}
+.searchbar{
+    width: 360px;
+    height: 57px;
+    padding-left: 39px;
+    border: solid 1px#bfb7b7;
+    border-radius: 4px;
+    font-size: 15px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: -15px;
+    
+    
+}
+
+.search{
+    
+    padding-top: 23px;
+    width: 370px;
+}
+.header2{
+    
+    width: 174px;
+    padding-left: 232px;
+}
+
+.img{
+    position: absolute;
+    -webkit-box-align: center;
+    align-items: center;
+
+    padding-left: 10px;
+    margin-top: 5px;
+    
+}
+.icon {
+    height: 20px;
+    width: 20px;
+    cursor: inherit;
+}
+.phnicon{
+    position:absolute;
+    -webkit-box-align: center;
+    align-items: center;
+    display: flex;
+    padding-left: 10px;
+    margin-top: 31px;
+    width: 16px;
+    
+}
+.linknames{
+    padding-left:42px;
+    text-decoration: none;
+    color: rgb(90, 84, 84);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+   
+}
+.linknms{
+    padding-left:42px;
+    text-decoration: none;
+    color: rgb(90, 84, 84);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    margin-top: 24px;
+}
+.left-top-links{
+    padding-top: 33px;
+    
+}
+.pro-icon{
+    
+    position:absolute;
+    -webkit-box-align: center;
+    align-items: center;
+    margin-top: -26px;
+    padding-left: 44px;
+    width: 20px;
+}
+.cart-icon{
+    
+    position:absolute;
+    -webkit-box-align: center;
+    align-items: center;
+    margin-top: -30px;
+    padding-left: 33px;
+    width: 22px;
+}
+.navbar{
+    display: flex;
+    justify-content:space-around;
+    
+}
+.Product-details{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:15px ;
+    
+
+}
+.linkover-change:hover{
+    color: rgb(240, 23, 131);
+    font-size: 13px; 
+    font-weight: bold;   
+
+}
+.linkover-change{
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+    color: black;
+}
+.first{
+    width: 100%;
+    height: 336px;
+    clear: both;
+}
+.text-photo{
+    width: 90%;
+    display: flex;
+    
+    height: 340px;
+    margin-left: 80px;
+    
+    margin-top: 63px;
+}
+.left{
+    background-color: rgb(249, 249, 249);
+    width: 50%;
+}
+.text{
+    font-size: 33px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 66px;
+    padding-top: 50px;
+    letter-spacing: 0.5px;
+    font-weight:bold;
+    
+}
+.box{
+    height: 47px;
+    width: 359px;
+    margin-left: 63px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    border-radius: 12px;
+    border: solid 1px white;
+    margin-top: 21px;
+}
+.playstore{
+    
+    width: 345px;
+    height: 51px;
+    margin-top: 30px;
+    margin-left: 63px;
+    border-radius: 5px;
+    background-color: #ec4097;
+}
+.playstorelink{
+    color: white;
+    text-decoration: none;
+    
+}
+.dwnld{
+    margin: 10px;
+    
+    width: 192px;
+    margin-top: -28px;
+    margin-left: 50px;
+}
+.playlogo{
+    height: 30px;
+    width: 30px;
+    margin-left: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+    
+}
+.photo{
+    height: 340px;
+    width: 571px;
+}
+.second{
+    height: 60px;
+    width:87%;
+    margin-top: 20px;
+    margin-left: 85px;
+}
+
+.top-title{
+    font-size: 35px;
+    padding-left: 330px;
+    padding-top: 20px;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+      
+}
+.pink-bg{
+    width: 100%;
+    height: 500px;
+   /* background-image: url(images/1631612018143.png);*/
+   position: relative;
+    
+    
+}
+.size{
+    width: 88%;
+    height: 500px;
+    margin-top: 20px;
+    margin-left: 78px;
+    display: flex;
+}
+.imageone{
+    
+        position: absolute;
+        top: 668px;
+        left: 101px;
+    
+}
+.imagetwo{
+ 
+    position: absolute;
+    top: 807px;
+    left: 521px;
+}
+.imagethree{
+    position: absolute;
+    top: 807px;
+    left: 854px;
+
+}
+.img-girl{
+    margin-top: 42px;
+    margin-left: 77px;
+}
+.footer-section{
+    display: flex;
+    flex-direction: row;
+    height: 300px;
+    width: 100%;
+    background-color:#f7f7f7;
+}
+.footerone{
+    background-color:#f7f7f7;
+    width: 50%;
+    height: 246px;
+}
+.footertwo{
+   
+       background-color: #f7f7f7;
+    width: 49%;
+   
+    margin-left: 476px;
+    margin-top: -204px;
+    
+}
+.footerthree{
+    background-color: #f7f7f7;
+    width: 49%;
+   
+    margin-left: 675px;
+    margin-top: -81px;
+}
+.footerfour{
+      background-color: #f7f7f7;
+    width: 49%;
+   
+    margin-left: 889px;
+    margin-top: -99px;
+}
+.footerfive{
+    background-color: #f7f7f7;
+    width: 36%;
+   
+    margin-left: 1103px;
+    margin-top: -104px;
+}
+.heading{
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-top: 90px;
+
+}
+.para{
+    margin-left: 13px; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    color: rgb(131, 122, 122);
+}
+.googleplay{
+    width: 180px;
+    margin-left: 12px;
+    border-radius: 4px;
+    height: 40px;
+}
+.links{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    color: grey;
+    text-decoration: none;
+    line-height: 40px;
+    letter-spacing: 2px;
+}
+.footer{
+    width: 100%;
+    margin-top: 59px;
+}
+.contact{
+    color: rgb(29, 28, 28);
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.logos{
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+    
+} 
+.last{
+    margin-top: 116px;
+    margin-left: -208px;
+    
+   
+}
+.para2{
+    color: grey;
+    font-size: 11px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: -47px;
+    margin-left: 42px;
+    background-color:#f1f1f1;
+    border-radius: 11px;
+height: 62px;
+width: 385px;
+padding-left: 27px;
+padding-top: 13px;
+       
+}
+.last-logo{
+    height: 15px;
+    width: 15px;
+    
+}
+.small{
+    margin-left: 48px;
+    
+
+}
+
+body{
+    margin: 0%;
+}
